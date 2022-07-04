@@ -1,1 +1,1 @@
-Parei na página 138 ALP2
+Learning dev in C
