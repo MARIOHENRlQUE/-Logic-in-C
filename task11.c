@@ -22,7 +22,7 @@ void converte(int n){
 }
 void  arquivando(int x){
 	FILE *point1;
-	point1 = fopen("Atividade 11.txt", "a+");
+	point1 = fopen("task11.txt", "a+");
 	while(point1 == NULL){
 		printf("Erro ao abrir arquivo;");
 	}

@@ -3,7 +3,7 @@
 #include <stdlib.h>
 void main(){
 	FILE *Ar, *Ar2;
-	Ar = fopen("Atividade 9.txt", "w");
+	Ar = fopen("task9.txt", "w");
 	while(Ar == NULL){
 		printf("We can´t open the paste\n");
 		exit(0);
